@@ -1,0 +1,55 @@
+[{
+  "Id": "1",
+  "name": "Chevrolet Captiva",
+  "Exterior": "Arctic Ice",
+  "Interior": "Black",
+  "Transmission": "6 speed",
+  "Engine": "4 cylinder",
+  "Doors": "Four door sport utility",
+  "Img": "captiva.jpg"
+}, {
+  "Id": "2",
+  "name": "Chevrolet Traverse",
+  "Exterior": "Cyber Gray",
+  "Interior": "Ebony",
+  "Transmission": "6 speed",
+  "Engine": "6 cylinder",
+  "Doors": "Four door sport utility",
+  "Img": "cobalt.jpg"
+}, {
+  "Id": "3",
+  "name": "Chevrolet Cobalt",
+  "Exterior": "Maroon",
+  "Interior": "Black",
+  "Transmission": "5 speed manual",
+  "Engine": "4 cylinder",
+  "Doors": "Two Door Coupe",
+  "Img": "traverse.jpg"
+},{
+  "Id": "4",
+  "name": "Maruti SuzuKi Baleno",
+  "Exterior": "Pink",
+  "Interior": "White",
+  "Transmission": "4 speed",
+  "Engine": "2 cylinder",
+  "Doors": "Four door",
+  "Img": "baleno.png"
+}, {
+  "Id": "5",
+  "name": "Maruti SuzuKi Ertiga",
+  "Exterior": "Yellow",
+  "Interior": "black",
+  "Transmission": "6 speed",
+  "Engine": "4 cylinder",
+  "Doors": "Four door sport utility",
+  "Img": "ertiga.png"
+}, {
+  "Id": "6",
+  "name": "Hyundai Creta",
+  "Exterior": "Maroon",
+  "Interior": "Black",
+  "Transmission": "6 speed",
+  "Engine": "6 cylinder",
+  "Doors": "Two Door Coupe",
+  "Img": "creta.png"
+}]
